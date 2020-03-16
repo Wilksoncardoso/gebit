@@ -1,0 +1,14 @@
+body, html{
+background-color: #FFFFFF;
+font-family: 'Roboto', ;
+}
+
+.topo{
+
+position: absolute;
+
+height: 60px;
+width: 100%;
+background-color: #2E5493;
+
+}

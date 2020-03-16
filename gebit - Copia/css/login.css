@@ -1,0 +1,81 @@
+
+
+
+body,html {
+position: relative;
+  background-image: url('../imagem/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  font-family: 'Open Sans';
+
+}
+
+
+.login {
+width: 297px;
+position: absolute;
+top: 334px;
+left: 84px;
+}
+
+
+
+.logo{
+background-color: red;
+position: absolute;
+top: 126px;
+left: 88px;
+
+
+width: 306px;
+height: 178px;
+}
+
+label{
+	color: white;
+}
+
+.entrar {
+border: 1px;
+border-color: #4A86E8;
+top: 508px;
+left: 84px;
+width: 297px;
+height:42px;
+color: white;
+background-color: #4A86E8;
+font-size: 18;
+}
+
+.cadastrar {
+border: 1px;
+border-color: #4A86E8;
+left: 84px;
+top: 550px;
+
+width: 297px;
+height:42px;
+color: #4A86E8;
+background-color:#DDDDDD;
+}
+
+
+
+.cadastro {
+position: absolute;
+top: 177px;
+left: 84px;
+
+width: 297px;
+height: 415px;
+}
+
+.cadastrotext{
+position: absolute;
+top: 124px;
+left:109px;
+color: white;
+}

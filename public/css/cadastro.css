@@ -1,0 +1,70 @@
+
+
+
+body,html {
+position: relative;
+  background-image: url('../image/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  font-family: 'Open Sans';
+
+}
+
+
+label,p {
+color: #ffffff;
+font-family: 'Open Sans';
+}
+
+
+.cad_cardcadastro {
+position: absolute;
+top: 177px;
+left: 84px;
+
+width: 297px;
+height: 303px;
+}
+
+.cad_cadastrotext{
+position: absolute;
+top: 124px;
+left:109px;
+color: white;
+}
+
+.cad_cadastrar{
+border: 1px;
+border-color: #4A86E8;
+width: 297px;
+height:42px;
+color: #ffffff;
+background-color:#4A86E8;
+border-radius: 4px;
+
+}
+
+.cad_cadastrar_position{
+position: fixed;
+left: 84px;
+top: 508px;
+}
+
+.cad_voltar{
+  border: 1px;
+border-color: #4A86E8;
+width: 297px;
+height:42px;
+color: #4A86E8;
+background-color:#DDDDDD;
+border-radius: 4px;
+}
+
+.cad_voltar_position{
+position: fixed;
+left: 84px;
+top: 550px;
+}
